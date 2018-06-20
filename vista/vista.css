@@ -1,0 +1,64 @@
+.introduccion{
+    border: double;
+    width: 70%;
+    text-justify: auto;
+    padding: 25px;
+    
+}
+.titulo{
+    margin: 30px;
+}
+.informacion{
+    border: double;
+    width: 95%;
+    height: 96%;   
+    text-align: justify;
+    padding: 25px;
+    background-image: url("imagenes/fondo2.png");
+    background-size:cover;
+    background-attachment: fixed;
+}
+.contenedores{
+    margin-top: 3%;
+    margin: 3px;
+    padding: 25px;
+}
+.perfilProfesional{
+    border: double;
+    text-justify: auto;
+    padding: 25px;
+}
+.formacionComplementaria{
+    border: double;
+    text-justify: auto;
+    padding: 25px;
+}
+.referenciasPersonales{
+    border: double;
+    width: 30%;
+    text-justify: auto;
+    padding: 25px;
+}
+.PerfilProfesional{
+    border: double;
+    width: 30%;
+    text-justify: auto;
+}
+.referenciasLaborales{
+    border: double;
+    width: 30%;
+    text-justify: auto;
+    padding: 25px;
+    
+}
+.imagen{
+    width: 60%;
+}
+#baul{
+        font-size: 130%;     
+}
+body{
+    background-image: url("imagenes/fondo2.png");
+    background-size:cover;
+    background-attachment: fixed;
+}
